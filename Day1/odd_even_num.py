@@ -8,7 +8,7 @@ for i in modi_list:
     if int(i) % 2 == 0:
       even_lis.append(i)
     else:
-        odd_lis.append(i)
+      odd_lis.append(i)
     
 print(odd_lis)
 print(even_lis)    
